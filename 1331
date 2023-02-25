@@ -1,0 +1,19 @@
+def Times_of_Day():
+    while True
+        try:
+            userChoice = input("enter time of day:m-morning,d-day,e-evening")
+    if userChoice == 'm':
+        d = 'good morning'
+        if userChoice == 'd'
+            d = 'good day'
+            if userChoice == 'e'
+            d = 'good evening'
+            except:
+            print('you enter something wrong')
+    def name():
+        n=input('enter name: \n')
+        return n
+    while True:
+        Times_of_Day_name=(Times_of_Day(),name())
+        for in times_of_Day_name:
+            print(name)
